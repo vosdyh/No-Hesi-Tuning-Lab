@@ -1,6 +1,6 @@
 # No-Hesi-Tuning-Lab
 
-**No Hesi Tuning Lab**: A high-performance, web-based setup builder for Assetto Corsa. Stop guessing—instantly calculate and export precision .ini parameters for drift, grip, and Vmax builds. Optimized for No Hesi SRP traffic, this tool brings competitive-grade tuning to your browser. Build your winning setup, save your presets, and dominate the traffic.
+A high-performance, [web](https://vosdyh.github.io/No-Hesi-Tuning-Lab/)-based setup builder for Assetto Corsa. Stop guessing—instantly calculate and export precision .ini parameters for drift, grip, and Vmax builds. Optimized for No Hesi SRP traffic, this tool brings competitive-grade tuning to your browser. Build your winning setup, save your presets, and dominate the traffic.
 
 ## Features
 
@@ -14,7 +14,7 @@
 
 This application is a single-file static tool, making deployment and usage straightforward:
 
-1.  **Direct Access (No Installation):** You can access and run the lab directly in your browser without downloading any files by visiting the project’s GitHub [Pages link]().
+1.  **Direct Access (No Installation):** You can access and run the lab directly in your browser without downloading any files by visiting the project’s GitHub [Pages link](https://vosdyh.github.io/No-Hesi-Tuning-Lab/).
 2.  **Local Execution:** Alternatively, you can clone or download this repository to your local machine and open the `index.html` file directly in any modern desktop web browser (Chrome, Firefox, Edge, Safari).
 3.  **Development Setup:** For the best development experience when modifying the interface, serve the file using a local web server, such as the "Live Server" extension in VS Code.
 
@@ -42,10 +42,11 @@ This project is built entirely with standard web technologies, requiring no buil
 *   **Architecture:** Single-file static application.
 
 ## License
+*© 2026 jibbles Tuning-Lab* 
 
-© 2026 No Hesi Tuning Lab. All Rights Reserved.
+All Rights Reserved.
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+Prepared for personal testing purposes only. This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
 
 **You are free to:**
 *   **Share:** Copy and redistribute the material in any medium or format.
