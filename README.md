@@ -20,7 +20,7 @@ This application is a single-file static tool, making deployment and usage strai
 
 ## Written With
 
-This project was built using:
+This project was "proudly", though entirely created using:
 
 *   Gemini-3.5-Flash
 
