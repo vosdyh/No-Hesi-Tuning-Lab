@@ -22,8 +22,7 @@ This application is a single-file static tool, making deployment and usage strai
 
 This project was built using:
 
-*   Claude-3.5-Sonnet
-*   Gemini-1.5-Pro
+*   Gemini-3.5-Flash
 
 ## Disclaimer
 
