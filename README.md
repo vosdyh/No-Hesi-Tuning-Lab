@@ -31,7 +31,10 @@ This project is built strictly for personal educational and simulation practice.
 
 ## Security & Verification
 
-This project runs entirely on client-side code and does not collect, store, or transmit user data. You can verify the integrity of the file by inspecting the source code directly; there are no hidden scripts, trackers, or obfuscated payloads.
+This project runs entirely on client-side code and does not collect, store, or transmit user data. You can verify the integrity of the file by inspecting the source code directly; there are no hidden scripts, trackers, or obfuscated payloads. You can verify the integrity of the release file via VirusTotal using the official SHA-256 fingerprint:
+
+* **SHA-256 Hash:** `e53491c418b195b37a5a1f74de3a87ef9ba1b249c7d0b572835193a2568fe652`
+* **Direct Report:** [View Live Scan Analysis](https://www.virustotal.com/gui/file/e53491c418b195b37a5a1f74de3a87ef9ba1b249c7d0b572835193a2568fe652)
 
 ## Technical Stack
 
